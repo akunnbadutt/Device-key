@@ -12,5 +12,13 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bccae8993494b7eb",
+        "username": "Pribadi",
+        "password": "Aldilynx23",
+        "expirydate": "15-04-2026",
+        "Allowoffline": false
     }
+    
 ]
