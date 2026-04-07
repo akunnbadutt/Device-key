@@ -18,7 +18,7 @@
         "username": "Pribadi",
         "password": "Aldi23",
         "expirydate": "15-04-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "e13dc5efaf394735",
