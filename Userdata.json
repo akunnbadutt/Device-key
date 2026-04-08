@@ -24,21 +24,21 @@
         "device_id": "e13dc5efaf394735",
         "username": "Yusuf",
         "password": "Yusuf123",
-        "expirydate": "09-04-2026",
+        "expirydate": "11-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "df966ac378336e90",
         "username": "Faza",
         "password": "Faza01",
-        "expirydate": "09-04-2026",
+        "expirydate": "08-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "70033773753d84cd",
         "username": "Nazriel",
         "password": "Nazriel01",
-        "expirydate": "09-04-2026",
+        "expirydate": "08-04-2026",
         "Allowoffline": false
     }
 ]
