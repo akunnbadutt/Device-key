@@ -47,5 +47,12 @@
         "password": "saffanul",
         "expirydate": "10-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ecd6a9314b8cdd83",
+        "username": "Nadep",
+        "password": "Nadep",
+        "expirydate": "10-04-2026",
+        "Allowoffline": false
     }
 ]
