@@ -40,5 +40,12 @@
         "password": "Nazriel01",
         "expirydate": "08-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "040ba194a9860661",
+        "username": "saffanul",
+        "password": "saffanul",
+        "expirydate": "10-04-2026",
+        "Allowoffline": false
     }
 ]
